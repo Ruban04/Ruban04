@@ -69,13 +69,6 @@
 
 
 
-<h3 align="left">🎵 Currently:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-  <a href="https://open.spotify.com/user/31sqb6msbnp55kzw26ouyiyn6osu">
-    alt="Spotify Now Playing" />
-  </a>
-</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ruban04&style=for-the-badge&color=FF00FF" alt="Profile Views" />
