@@ -1,11 +1,6 @@
 # <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,ff00ff,00ff00,ff0000&height=240&section=header&text=Ruban%20A&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20&descAlignY=58&descAlign=50"/>
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="200" height="200"/>
-</div>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Problem+Solver;Tea+%E2%98%95+%3D+Code+%F0%9F%92%BB;Always+Learning" alt="Typing SVG" />
 </div>
@@ -16,8 +11,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruban04&label=Profile%20views&color=0e75b6&style=flat" alt="ruban04" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruban04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="ruban04" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ruban1979383" target="blank"><img src="https://img.shields.io/twitter/follow/ruban1979383?logo=twitter&style=for-the-badge" alt="ruban1979383" /></a> </p>
 
 - 🔭 I'm currently working on **Employee-Alerting-System-Using-Real-Time-Drowsiness-Detection**
 
