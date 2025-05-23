@@ -71,8 +71,9 @@
 
 <h3 align="left">🎵 Currently:</h3>
 <p align="left">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
   <a href="https://open.spotify.com/user/31sqb6msbnp55kzw26ouyiyn6osu">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=0,ff00ff,00ff00,ff0000&border_color=ffffff" alt="Spotify Now Playing" />
+    alt="Spotify Now Playing" />
   </a>
 </p>
 
