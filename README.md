@@ -50,9 +50,26 @@
   <a href="https://github.com/ruban04/Employee-Alerting-System-Using-Real-Time-Drowsiness-Detection">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ruban04&repo=Employee-Alerting-System-Using-Real-Time-Drowsiness-Detection&theme=tokyonight&hide_border=true" />
   </a>
+  <a href="https://github.com/ruban04/Network-Intrusion-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ruban04&repo=Network-Intrusion-Detection&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ruban04/Laravel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ruban04&repo=Laravel&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ruban04/FACE-FILTER-WEBSITE-USING-JAVASCRIPT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ruban04&repo=FACE-FILTER-WEBSITE-USING-JAVASCRIPT&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ruban04/Lung-cancer-disease-analysis-using-machine-learning-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ruban04&repo=Lung-cancer-disease-analysis-using-machine-learning-&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ruban04/Suitable-tourism-development-system-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ruban04&repo=Suitable-tourism-development-system-&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&color=FF00FF&center=true&vCenter=true&width=600&height=50&lines=Tea+is+a+semicolon+(;)+to+my+endless+coding+sessions&pause=999999" alt="Tea Quote" />
+</div>
 
 <h3 align="left">🎵 Currently:</h3>
 <p align="left">
