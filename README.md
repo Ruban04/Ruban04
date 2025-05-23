@@ -1,7 +1,6 @@
-<h1 align="center">
-  🧑‍💻 <span style="color:#ff3cac;">Ruban A</span> <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Loves+Coffee+%E2%98%95" alt="Typing SVG" />
-</h1>
+# <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=240&section=header&text=Ruban%20A&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20&descAlignY=58&descAlign=50"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Problem+Solver;Tea+%E2%98%95+%3D+Code+%F0%9F%92%BB;Always+Learning" alt="Typing SVG" />
