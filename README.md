@@ -1,5 +1,5 @@
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=240&section=header&text=Ruban%20A&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20&descAlignY=58&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff&customColorList=10&height=240&section=header&text=Ruban%20A&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20&descAlignY=58&descAlign=50"/>
 </div>
 
 
@@ -16,9 +16,9 @@
 
 <p align="left"> <a href="https://twitter.com/ruban1979383" target="blank"><img src="https://img.shields.io/twitter/follow/ruban1979383?logo=twitter&style=for-the-badge" alt="ruban1979383" /></a> </p>
 
-- 🔭 I’m currently working on **Employee-Alerting-System-Using-Real-Time-Drowsiness-Detection**
+- 🔭 I'm currently working on **Employee-Alerting-System-Using-Real-Time-Drowsiness-Detection**
 
-- 🌱 I’m currently learning **FullStack, Laravel.**
+- 🌱 I'm currently learning **FullStack, Laravel.**
 
 - 💬 Ask me about **Java and Python**
 
