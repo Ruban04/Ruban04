@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://twitter.com/ruban1979383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ruban1979383" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ruban-a-46715325a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruban-a-46715325a" height="30" width="40" /></a>
-<a href="https://instagram.com/ruban.____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruban.____" height="30" width="40" /></a>
+<a href="https://instagram.com/ruban.____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruban._____" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ruban078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ruban078" height="30" width="40" /></a>
 </p>
 
