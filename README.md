@@ -1,8 +1,7 @@
-# <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=ff00cc,3333ff,00ffcc,ffcc00,ff6666&height=240&section=header&text=Ruban%20A&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20&descAlignY=58&descAlign=50"/>
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=ff00cc,3333ff,00ffcc,ffcc00,ff6666&height=240&section=header&text=Ruban%20A&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descAlign=50&background=ffffff"/>
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Problem+Solver;Tea+%E2%98%95+%3D+Code+%F0%9F%92%BB;Always+Learning" alt="Typing SVG" />
