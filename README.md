@@ -6,9 +6,7 @@
 </div>
 
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&height=50&lines=Information+Technology+Student" alt="Information Technology Student" />
-</h3>
+<h3 align="center" style="color: #FF00FF; font-weight: 500; font-family: 'Fira Code', monospace;">Information Technology Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruban04&label=Profile%20views&color=0e75b6&style=flat" alt="ruban04" /> </p>
 
