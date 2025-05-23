@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruban04" alt="ruban04" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ruban1979383" target="blank"><img src="https://img.shields.io/twitter/follow/ruban1979383?logo=twitter&style=for-the-badge" alt="ruban1979383" /></a> </p>
+
 
 - 🔭 I'm currently working on **Employee-Alerting-System-Using-Real-Time-Drowsiness-Detection**
 
