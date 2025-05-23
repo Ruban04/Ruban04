@@ -38,10 +38,10 @@
 
 <h3 align="left">⚡ Skills Progress:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-Expert-FF00FF?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Intermediate-FF00FF?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Advanced-FF00FF?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-Intermediate-FF00FF?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Advanced-FF00FF?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-FF00FF?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-Intermediate-FF00FF?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
@@ -52,13 +52,11 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&color=FF00FF&center=true&vCenter=true&width=600&height=50&lines=Tea+is+a+semicolon+(;)+to+my+endless+coding+sessions&pause=999999" alt="Tea Quote" />
-</div>
+
 
 <h3 align="left">🎵 Currently:</h3>
 <p align="left">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kz4j6qgqgqgqgqgqgqgqgqgqgq&count=1" alt="Currently Listening" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqb6msbnp55kzw26ouyiyn6osu&count=1" alt="Currently Listening" />
 </p>
 
 <div align="center">
