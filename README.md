@@ -1,3 +1,11 @@
+# <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=240&section=header&text=Sabarna%20T&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AIML%20Enthusiast&descAlignY=58&descAlign=50"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Coffee+%E2%98%95+%3D+Code+%F0%9F%92%BB;Always+Learning" alt="Typing SVG" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Ruban A</h1>
 <h3 align="center">Information Technology Student</h3>
 
