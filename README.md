@@ -72,7 +72,7 @@
 <h3 align="left">🎵 Currently:</h3>
 <p align="left">
   <a href="https://open.spotify.com/user/31sqb6msbnp55kzw26ouyiyn6osu">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31sqb6msbnp55kzw26ouyiyn6osu&cover_image=true&theme=tokyonight&show_offline=false&background_color=121212&interchange=false&bar_color=FF00FF&bar_color_cover=false" />
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0,ff00ff,00ff00,ff0000&border_color=ffffff" alt="Spotify Now Playing" />
   </a>
 </p>
 
