@@ -24,10 +24,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1N6iyfKOacfdgfqEEk_Vv2X7bSXNG33JF/view?usp=drive_link](https://drive.google.com/file/d/1N6iyfKOacfdgfqEEk_Vv2X7bSXNG33JF/view?usp=drive_link)
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&color=FF00FF&center=true&vCenter=true&width=600&height=50&lines=Tea+is+a+semicolon+(;)+to+my+endless+coding+sessions&pause=999999" alt="Tea Quote" />
-</div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ruban-a-46715325a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruban-a-46715325a" height="30" width="40" /></a>
