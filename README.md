@@ -33,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruban04&show_icons=true&locale=en" alt="ruban04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruban04&" alt="ruban04" /></p>
+![Ruban's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruban04&show_icons=true&theme=radical)
