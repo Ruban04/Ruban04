@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **rubanvijay330@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/14UaPq3fyK9jjxm1TgToAOu18zxIy6u2L/view?usp=drive_link](https://drive.google.com/file/d/14UaPq3fyK9jjxm1TgToAOu18zxIy6u2L/view?usp=drive_link)
+- 📄 My Resume [https://drive.google.com/file/d/1cXh-7DZPa-kbaPtSdElTSuUEXw0v3RTJ/view?usp=drivesdk](https://drive.google.com/file/d/1cXh-7DZPa-kbaPtSdElTSuUEXw0v3RTJ/view?usp=drivesdk)
 - My Portfolio: [https://rubanaportfolio.netlify.app/](https://rubanaportfolio.netlify.app/)
 - ⚡ **I can debug code in my sleep💤💤 literally, I've solved bugs🪲🐞 after waking up!**
 
